@@ -1,5 +1,5 @@
 import csv
-#We'll use numby to calcuate a list average
+#We'll use numpy to calcuate a list average
 import numpy as np
 
 #Data we are examining includes two columns
